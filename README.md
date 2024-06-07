@@ -1,16 +1,13 @@
-## Hi there 👋
+# BEM VINDO 👑 
 
-<!--
-**GUIZIN-cv/GUIZIN-cv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Guilherme 
 
-Here are some ideas to get you started:
+# AMO grau/244
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+estou me desenvolvendo na linguagem de programação javaScript
+ultilizo esse espaço para a organização e compartilhamento dos meus projetos desenvolvidos durante as aulas de tecnologia e robótica.
+
+
+
+
+![](https://github.com/GUIZIN-cv/GUIZIN-cv/assets/172064285/428ef9ef-5542-4ddd-b42c-738341ebdad6)
